@@ -1,0 +1,34 @@
+
+
+
+body{
+    background-image: url(/imagenes/messi.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.pais{
+    color: rgb(3, 168, 58);
+    background-color: brown;
+   background-size: 500p;
+}
+
+p{
+    color: rgb(55, 53, 223); 
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: larger;
+  
+  }
+
+
+
+
+
+h1,h6{
+    color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:larger;
+    text-align: right;
+
+}
+
